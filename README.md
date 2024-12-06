@@ -9,6 +9,8 @@ The School Management System is a web-based application built using the MERN (Mo
 
 # Installation
 
+Make folder as frontend, and copy public, src folder to it. Make another folder as backend and copy other 3 folders in it.
+
 Terminal 1: Setting Up Backend 
 ```sh
 cd backend
